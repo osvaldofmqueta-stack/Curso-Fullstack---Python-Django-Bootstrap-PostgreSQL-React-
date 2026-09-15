@@ -1,54 +1,81 @@
 # Curso Fullstack — Python, Django, Bootstrap, PostgreSQL e React
 
-Roteiro completo para aprender desenvolvimento web full-stack através de uma stack prática:
+Este curso segue uma progressão única: começa em **Python, lógica e programação**, passa pelos fundamentos da web e só avança para Django quando a base estiver consolidada.
+
+## Objetivo final
+
+No fim do curso, serás capaz de criar, testar e publicar uma aplicação full-stack com:
 
 ```text
-Python + Django + Bootstrap + PostgreSQL + Django REST Framework + React
+React + Bootstrap → Django REST Framework → PostgreSQL
 ```
 
-O curso foi pensado para estudar 5 dias por semana, 2 horas por dia, durante 24 semanas. O objetivo é terminar com capacidade para criar, testar, publicar e explicar aplicações web completas.
+Também saberás criar aplicações completas apenas com:
 
-## Stack do curso
+```text
+Django Templates + Bootstrap + PostgreSQL
+```
 
-- **Python** — lógica e programação
+## Stack principal
+
+- **Python** — lógica, programação e backend
 - **HTML** — estrutura das páginas
 - **CSS** — fundamentos visuais
-- **Bootstrap** — framework de estilização fácil para começar
+- **Bootstrap** — estilização rápida e responsiva
 - **JavaScript** — interatividade no navegador
-- **Django** — backend e aplicações web
+- **Django** — aplicações web e backend
 - **SQLite** — primeira base de dados
-- **PostgreSQL** — base de dados para produção
-- **Django REST Framework** — criação de APIs
+- **PostgreSQL** — base de dados profissional
+- **Django REST Framework** — APIs
 - **React** — frontend moderno
-- **Git e GitHub** — controlo de versões e portfólio
-- **pytest e testes Django** — qualidade do código
+- **Git e GitHub** — versões e portfólio
+- **pytest** — testes
 
-## Ritmo de estudo
+Bootstrap será o framework visual principal. Tailwind, Vue, Angular e outras tecnologias ficam para depois.
+
+# Ritmo de estudo
 
 - 5 dias por semana
 - 2 horas por dia
 - 10 horas por semana
-- 24 semanas
-- Aproximadamente 240 horas
+- 28 semanas
+- Aproximadamente 280 horas
 
-### Estrutura de cada aula — 120 minutos
+## Estrutura de cada aula — 120 minutos
 
 | Atividade | Tempo |
 |---|---:|
-| Revisão da aula anterior | 10 min |
-| Explicação do novo conteúdo | 20 min |
+| Revisão e correção da aula anterior | 10 min |
+| Explicação do conceito | 20 min |
 | Exemplo acompanhado | 35 min |
 | Exercício individual | 40 min |
-| Corrigir erros e fazer commit | 15 min |
+| Debug, resumo e commit | 15 min |
 | **Total** | **120 min** |
 
-À sexta-feira, o estudo é dedicado à revisão, ao projeto da semana, aos testes, à correção de erros e ao GitHub.
+### Organização da semana
 
-## Instalações por etapa
+- **Segunda:** conceito novo e exemplos
+- **Terça:** exercícios guiados
+- **Quarta:** exercício individual
+- **Quinta:** construção do projeto
+- **Sexta:** revisão, testes, documentação e GitHub
 
-Não é necessário instalar tudo no primeiro dia.
+## Regra para avançar
 
-### Antes da primeira aula
+Não avançar apenas porque as semanas terminaram. Avançar quando conseguires:
+
+1. Explicar o conceito com as tuas palavras.
+2. Criar um exercício sem copiar o exemplo.
+3. Corrigir pelo menos um erro sozinho.
+4. Entregar o projeto da etapa.
+
+Cada fase abaixo tem um **ponto de passagem**. Se ainda não conseguires cumprir os critérios, repete os exercícios antes de seguir.
+
+# Instalações por etapa
+
+Não instalar tudo de uma vez.
+
+## Antes da primeira aula
 
 Instalar:
 
@@ -56,24 +83,24 @@ Instalar:
 2. Visual Studio Code
 3. Python
 4. Git
-5. Criar uma conta no GitHub
+5. Criar uma conta GitHub
 
-Confirmar no terminal:
+Confirmar:
 
 ```bash
 python --version
 git --version
 ```
 
-Em alguns computadores, o comando do Python é:
+Em alguns computadores:
 
 ```bash
 python3 --version
 ```
 
-### Criar um ambiente virtual Python
+## Ambiente virtual Python
 
-Dentro de cada projeto Python:
+Criar dentro de cada projeto Python:
 
 ```bash
 python -m venv .venv
@@ -91,124 +118,223 @@ macOS/Linux:
 source .venv/bin/activate
 ```
 
-Depois:
+Atualizar o pip:
 
 ```bash
 python -m pip install --upgrade pip
 ```
 
-### Quando começar Django
+## Instalações posteriores
+
+Quando chegar a cada fase:
 
 ```bash
+# Django
 python -m pip install django
-```
 
-### Quando começar PostgreSQL
-
-Instalar:
-
-- PostgreSQL
-- pgAdmin
-
-SQLite será utilizado no início porque já vem integrado ao Django.
-
-### Quando começar APIs
-
-```bash
+# Django REST Framework
 python -m pip install djangorestframework
+
+# Testes
+python -m pip install pytest pytest-django
 ```
 
-Para testar APIs, utilizar Thunder Client no VS Code ou Postman.
+Para PostgreSQL, instalar PostgreSQL e pgAdmin apenas na fase de bases de dados.
 
-### Quando começar React
-
-Instalar a versão LTS do Node.js e confirmar:
+Para React, instalar Node.js LTS e confirmar:
 
 ```bash
 node --version
 npm --version
 ```
 
-Criar um projeto React:
+# Fase 1 — Python, lógica e programação
 
-```bash
-npm create vite@latest frontend
-cd frontend
-npm install
-npm run dev
-```
+**Semanas 1–6 · 60 horas**
 
-# Plano de 24 semanas
+Esta é a fundação do curso. Não começar Django antes de concluir esta fase.
 
-## Semanas 1–4 — Python
+## Semana 1 — Ambiente e sintaxe
 
-### Ferramentas
+Estudar:
 
-- Python
-- VS Code
-- Terminal
-- Git
-- GitHub
-
-### Conteúdos
-
-- Variáveis, strings e números
+- VS Code e terminal
+- Variáveis
+- Tipos de dados
+- Strings
+- Números
+- `print`
+- Entrada de dados
 - Operadores
-- Condições
-- Ciclos
-- Funções
-- Listas, dicionários, tuplos e conjuntos
-- Ficheiros
-- JSON
-- Exceções
-- Organização de código
 
-### Exercícios
+Exercícios:
 
+- Apresentação do utilizador
 - Calculadora
-- Conversor de idade e temperatura
-- Tabuada
-- Sistema de notas
-- Lista de contactos
-- Sistema de produtos
+- Conversor de temperatura
+- Conversor de idade
 
-### Projeto
+## Semana 2 — Condições e ciclos
+
+Estudar:
+
+- `if`
+- `elif`
+- `else`
+- `for`
+- `while`
+- `range`
+- Operadores lógicos
+
+Exercícios:
+
+- Verificar maioridade
+- Verificar número par ou ímpar
+- Criar uma tabuada
+- Sistema de notas
+- Jogo de adivinhação
+
+## Semana 3 — Estruturas de dados
+
+Estudar:
+
+- Listas
+- Tuplos
+- Dicionários
+- Conjuntos
+- Índices
+- Percorrer estruturas
+- Compreensões de listas
+
+Exercícios:
+
+- Lista de compras
+- Agenda de contactos
+- Inventário de produtos
+- Pesquisa numa lista
+- Contagem de palavras
+
+## Semana 4 — Funções e organização
+
+Estudar:
+
+- Criar funções
+- Parâmetros
+- Retorno
+- Escopo
+- Módulos
+- Importações
+- Reutilização de código
+
+Exercícios:
+
+- Calculadora dividida em funções
+- Sistema de menu
+- Funções para gerir produtos
+- Funções para validar dados
+
+## Semana 5 — Ficheiros, JSON e erros
+
+Estudar:
+
+- Ler ficheiros
+- Escrever ficheiros
+- JSON
+- `try`
+- `except`
+- `finally`
+- Erros comuns
+
+Exercícios:
+
+- Guardar contactos num JSON
+- Ler produtos de um ficheiro
+- Guardar resultados de um jogo
+- Validar entradas inválidas
+
+## Semana 6 — Classes e projeto Python
+
+Estudar:
+
+- Classes
+- Objetos
+- Atributos
+- Métodos
+- `__init__`
+- Noções de programação orientada a objetos
+
+### Projeto da fase
 
 **Gestor financeiro no terminal**
+
+Funcionalidades:
 
 - Registar receitas
 - Registar despesas
 - Calcular saldo
 - Listar movimentos
+- Categorizar movimentos
 - Guardar dados em JSON
+- Tratar entradas inválidas
 
-## Semanas 5–8 — HTML, CSS, Bootstrap e JavaScript
+### Ponto de passagem para a web
 
-### Semana 5 — HTML
+Só avançar se conseguires:
 
-Estudar estrutura HTML, títulos, parágrafos, links, imagens, listas, tabelas, formulários e elementos semânticos.
+- Criar um programa Python sem seguir cada linha de um tutorial.
+- Dividir o código em funções.
+- Usar listas e dicionários.
+- Ler e guardar JSON.
+- Corrigir erros básicos.
+- Explicar a diferença entre função, classe e objeto.
 
-Exercícios:
+# Fase 2 — Fundamentos da web
 
-- Página pessoal
-- Formulário de contacto
-- Página de hobbies
-- Tabela de preços
+**Semanas 7–10 · 40 horas**
 
-### Semana 6 — CSS
+Python será o backend, mas precisas compreender o navegador antes de usar Django.
 
-Estudar cores, fontes, margens, espaçamentos, bordas, Flexbox, Grid e responsividade.
+## Semana 7 — HTML
+
+Estudar:
+
+- Estrutura HTML
+- Títulos e parágrafos
+- Links
+- Imagens
+- Listas
+- Tabelas
+- Formulários
+- Elementos semânticos
+
+Projeto pequeno:
+
+- Página pessoal com biografia, competências e contactos
+
+## Semana 8 — CSS
+
+Estudar:
+
+- Seletores
+- Cores
+- Fontes
+- Margens
+- Espaçamentos
+- Bordas
+- Flexbox
+- Grid
+- Responsividade
 
 Exercícios:
 
 - Cartão de perfil
-- Barra de navegação
-- Galeria de imagens
-- Página adaptada para telemóvel
+- Navbar
+- Galeria
+- Layout para telemóvel
 
-### Semana 7 — Bootstrap
+## Semana 9 — Bootstrap
 
-Bootstrap será o framework de estilização principal do curso. Primeiro serão estudados os fundamentos de CSS, para que as classes do Bootstrap não sejam utilizadas de forma mecânica.
+Bootstrap é o framework de estilização escolhido por ser simples, documentado e adequado para Django.
 
 Adicionar ao HTML:
 
@@ -231,19 +357,20 @@ Estudar:
 - Tabelas
 - Classes responsivas
 
-### Semana 8 — JavaScript no navegador
+## Semana 10 — JavaScript básico no navegador
 
-Estudar variáveis, funções, arrays, objetos, DOM, eventos, validação de formulários e `localStorage`.
+Estudar:
 
-Exercícios:
+- Variáveis
+- Funções
+- Arrays
+- Objetos
+- DOM
+- Eventos
+- Validação
+- `localStorage`
 
-- Contador
-- Menu abrir/fechar
-- Tema claro/escuro
-- Formulário com validação
-- Lista de tarefas
-
-### Projeto
+### Projeto da fase
 
 **Portfólio pessoal responsivo**
 
@@ -255,11 +382,22 @@ Exercícios:
 - Bootstrap
 - Design para computador e telemóvel
 
-Publicar no GitHub.
+### Ponto de passagem para Django
 
-## Semanas 9–12 — Django fundamental
+Conseguir:
 
-### Semana 9 — Primeiro projeto Django
+- Criar uma página HTML sem copiar a estrutura.
+- Criar um formulário.
+- Fazer uma página responsiva.
+- Usar Flexbox ou Grid.
+- Usar Bootstrap para montar cards, navbar e formulários.
+- Criar uma interação simples com JavaScript.
+
+# Fase 3 — Django e aplicações web
+
+**Semanas 11–15 · 50 horas**
+
+## Semana 11 — Primeiro projeto Django
 
 Instalar:
 
@@ -267,7 +405,7 @@ Instalar:
 python -m pip install django
 ```
 
-Criar o projeto:
+Criar:
 
 ```bash
 django-admin startproject config .
@@ -275,27 +413,27 @@ python manage.py startapp core
 python manage.py runserver
 ```
 
-Estudar projetos, aplicações, servidor, URLs, views e templates.
+Estudar:
 
-Exercícios:
+- Projeto
+- Aplicação
+- Servidor
+- URLs
+- Views
+- Templates
 
-- Página inicial
-- Página “Sobre”
-- Página de contacto
-- Menu entre páginas
-
-### Semana 10 — Templates e Bootstrap no Django
+## Semana 12 — Templates e Bootstrap
 
 Estudar:
 
-- Herança de templates
 - `base.html`
+- Herança de templates
 - Blocos
 - Ficheiros estáticos
 - CSS no Django
-- Bootstrap em templates
+- Bootstrap no Django
 
-Estrutura recomendada:
+Estrutura:
 
 ```text
 projeto/
@@ -311,9 +449,16 @@ projeto/
 └── manage.py
 ```
 
-### Semana 11 — Models e Django Admin
+## Semana 13 — Models, migrations e Admin
 
-Estudar models, campos, migrations, SQLite, Django Admin e ORM.
+Estudar:
+
+- Models
+- Campos
+- Migrations
+- SQLite
+- Django Admin
+- ORM
 
 Comandos:
 
@@ -324,40 +469,87 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-### Semana 12 — Projeto
+## Semana 14 — Formulários e CRUD
+
+Estudar:
+
+- Django Forms
+- ModelForms
+- Validação
+- Mensagens
+- Criar
+- Listar
+- Editar
+- Apagar
+
+## Semana 15 — Projeto Django
+
+### Projeto
 
 **Blog pessoal com Django e Bootstrap**
 
-- Criar artigos pelo admin
+- Criar artigos pelo Admin
 - Listar artigos
 - Ver artigo completo
 - Categorias
 - Pesquisa
+- Formulário de contacto
 - Layout responsivo
-- Página de contacto
 
-## Semanas 13–15 — Bases de dados e autenticação
+### Ponto de passagem para bases de dados e autenticação
 
-### Semana 13 — PostgreSQL
+Conseguir:
 
-Estudar tabelas, colunas, relações, SQL básico, PostgreSQL com Django e migrations.
+- Criar uma aplicação Django.
+- Ligar URLs a views.
+- Renderizar templates.
+- Usar um model.
+- Fazer migrations.
+- Criar um CRUD.
+- Usar Bootstrap dentro dos templates.
 
-Exercícios:
+# Fase 4 — Bases de dados, autenticação e permissões
 
-- Tabela de produtos
-- Tabela de categorias
-- Relação entre produtos e categorias
-- Pesquisa e filtros
+**Semanas 16–18 · 30 horas**
 
-### Semana 14 — Formulários Django
+## Semana 16 — PostgreSQL e SQL
 
-Estudar Django Forms, ModelForms, validação, mensagens e operações de criar, editar e apagar.
+Instalar:
 
-### Semana 15 — Login e permissões
+- PostgreSQL
+- pgAdmin
 
-Estudar registo, login, logout, sessões, perfis, permissões e páginas privadas.
+Estudar:
 
-### Projeto
+- Tabelas
+- Colunas
+- Chaves primárias
+- Relações
+- SQL básico
+- PostgreSQL com Django
+- Migrations
+
+## Semana 17 — Autenticação
+
+Estudar:
+
+- Registo
+- Login
+- Logout
+- Sessões
+- Perfil do utilizador
+- Passwords
+
+## Semana 18 — Permissões e projeto
+
+Estudar:
+
+- Páginas privadas
+- Grupos
+- Permissões
+- Utilizadores comuns e administradores
+
+### Projeto da fase
 
 **Sistema de gestão de tarefas**
 
@@ -366,13 +558,24 @@ Estudar registo, login, logout, sessões, perfis, permissões e páginas privada
 - Criar tarefas
 - Editar tarefas
 - Apagar tarefas
-- Marcar como concluídas
+- Marcar tarefas como concluídas
 - Cada utilizador vê apenas as suas tarefas
-- Interface feita com Bootstrap
+- Interface com Bootstrap
 
-## Semanas 16–18 — APIs e React
+### Ponto de passagem para APIs
 
-### Semana 16 — Django REST Framework
+Conseguir:
+
+- Usar PostgreSQL com Django.
+- Criar relações entre models.
+- Implementar login e logout.
+- Proteger páginas.
+- Validar formulários.
+- Separar permissões de utilizadores.
+
+# Fase 5 — APIs com Django REST Framework
+
+**Semanas 19–20 · 20 horas**
 
 Instalar:
 
@@ -380,18 +583,67 @@ Instalar:
 python -m pip install djangorestframework
 ```
 
-Estudar APIs REST, JSON, serializers, views de API, ViewSets, routers e métodos GET, POST, PUT e DELETE.
+Utilizar Thunder Client no VS Code ou Postman.
 
-Exercícios:
+## Conteúdos
+
+- API REST
+- JSON
+- Serializers
+- Views de API
+- ViewSets
+- Routers
+- GET
+- POST
+- PUT
+- DELETE
+- Autenticação e permissões em APIs
+
+## Exercícios
 
 - API de produtos
 - API de tarefas
 - API de utilizadores
-- Testar endpoints com Thunder Client
+- Filtros
+- Pesquisa
+- Endpoint protegido
 
-### Semana 17 — React básico
+### Projeto
 
-Instalar Node.js LTS e criar o projeto:
+**API de uma loja online**
+
+Endpoints:
+
+```text
+GET    /api/produtos/
+POST   /api/produtos/
+PUT    /api/produtos/<id>/
+DELETE /api/produtos/<id>/
+```
+
+### Ponto de passagem para React
+
+Conseguir:
+
+- Explicar o que é uma API.
+- Criar endpoints.
+- Enviar e receber JSON.
+- Testar uma API.
+- Proteger um endpoint.
+- Ligar uma API a uma base de dados.
+
+# Fase 6 — React e frontend moderno
+
+**Semanas 21–23 · 30 horas**
+
+Instalar Node.js LTS:
+
+```bash
+node --version
+npm --version
+```
+
+Criar:
 
 ```bash
 npm create vite@latest frontend
@@ -400,13 +652,30 @@ npm install
 npm run dev
 ```
 
-Estudar componentes, JSX, props, estado, eventos, formulários, listas e React Router.
+## Conteúdos
 
-### Semana 18 — React ligado ao Django
+- Componentes
+- JSX
+- Props
+- Estado
+- Eventos
+- Formulários
+- Listas
+- React Router
+- `fetch`
+- Comunicação com a API
+- Bootstrap no React
 
-Estudar `fetch`, comunicação com a API, criação, edição e eliminação de dados e login no React.
+## Exercícios
 
-### Projeto
+- Componente de card
+- Contador
+- Lista filtrável
+- Formulário
+- Página de login
+- Navegação entre páginas
+
+### Projeto da fase
 
 **Dashboard React para a API Django**
 
@@ -416,11 +685,14 @@ Estudar `fetch`, comunicação com a API, criação, edição e eliminação de 
 - Apagar produtos
 - Pesquisar
 - Filtrar
+- Fazer login
 - Interface com Bootstrap
 
-## Semanas 19–20 — Testes, segurança e publicação
+# Fase 7 — Testes, segurança e publicação
 
-### Semana 19 — Testes
+**Semanas 24–25 · 20 horas**
+
+## Semana 24 — Testes e qualidade
 
 Instalar:
 
@@ -428,29 +700,44 @@ Instalar:
 python -m pip install pytest pytest-django
 ```
 
-Estudar testes de models, views, APIs, formulários e autenticação.
+Estudar:
 
-### Semana 20 — Publicação
+- Testes de models
+- Testes de views
+- Testes de APIs
+- Testes de formulários
+- Testes de autenticação
+- Tratamento de erros
+
+## Semana 25 — Segurança e deploy
 
 Estudar:
 
 - Variáveis de ambiente
-- Segurança de passwords
+- Proteção de passwords
+- CSRF
+- CORS
 - Ficheiros estáticos
 - Ficheiros de media
 - Configuração de produção
 - GitHub
 - Deploy
 
-Publicar:
+### Ponto de passagem para o projeto final
 
-```text
-React → Django REST Framework → PostgreSQL
-```
+Conseguir:
 
-## Semanas 21–24 — Projeto final
+- Escrever testes básicos.
+- Não guardar segredos no GitHub.
+- Configurar variáveis de ambiente.
+- Publicar uma aplicação.
+- Ler logs e corrigir um erro de produção.
 
-### Projeto recomendado
+# Fase 8 — Projeto final full-stack
+
+**Semanas 26–28 · 30 horas**
+
+## Projeto recomendado
 
 **Sistema de gestão para pequenos negócios**
 
@@ -479,42 +766,54 @@ Funcionalidades:
 - Frontend React
 - Base de dados PostgreSQL
 
-### Semana 21 — Planeamento
+## Semana 26 — Planeamento e backend
 
 - Definir o problema
 - Listar funcionalidades
 - Desenhar as páginas
-- Criar os modelos da base de dados
-- Criar o repositório GitHub
-
-### Semana 22 — Backend
-
-- Criar projeto Django
-- Criar models
-- Criar migrations
+- Criar os models
 - Criar autenticação
-- Criar endpoints da API
+- Criar endpoints
 
-### Semana 23 — Frontend
+## Semana 27 — Frontend e integração
 
 - Criar páginas React
 - Adicionar Bootstrap
 - Ligar à API
 - Criar formulários
 - Criar dashboard
+- Mostrar estados de carregamento e erros
 
-### Semana 24 — Finalização
+## Semana 28 — Qualidade e portfólio
 
 - Testar
 - Corrigir erros
 - Melhorar o design
-- Criar README
+- Criar README do projeto
 - Publicar
-- Adicionar o projeto ao portfólio
+- Adicionar ao portfólio
 
-# Tecnologias a evitar no início
+# Resultado final
 
-Para manter o foco, não estudar ainda:
+Ao concluir o curso, deverás conseguir:
+
+- Programar em Python.
+- Resolver problemas com lógica.
+- Criar páginas com HTML e CSS.
+- Usar Bootstrap.
+- Criar interações com JavaScript.
+- Construir aplicações com Django.
+- Trabalhar com PostgreSQL.
+- Criar login e permissões.
+- Criar APIs REST.
+- Criar interfaces em React.
+- Escrever testes.
+- Publicar aplicações.
+- Apresentar projetos no GitHub.
+
+## Tecnologias para estudar apenas depois
+
+Não estudar no início:
 
 - Tailwind
 - Vue
@@ -529,5 +828,5 @@ Para manter o foco, não estudar ainda:
 Primeiro dominar:
 
 ```text
-Python + Django + Bootstrap + PostgreSQL + React
+Python → Web → Django → PostgreSQL → APIs → React → Deploy
 ```
