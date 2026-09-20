@@ -1,0 +1,72 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "HhJ46HyQbk1YoqObegSSz"
+uri = "file://Curso_Django_Catalogo_Web_Aulas_1_a_7/Aula_3_Primeira_Pagina_URLs_Views_Templates.docx"
+type = "word_document"
+title = "Aula 3 — Primeira página do catálogo"
+description = "Apostila prática do curso Django, com explicação passo a passo, exemplos, exercícios, desafios, checklist e ilustrações de fluxo."
+logical_id = "8e58e314-04c6-42c4-844d-80640030cd9d"
+content_hash = "sha256:49df9550539da69501252c719512064be5fb10492edf02d2056ebd8dd0b38c82"
+size = 42876
+mtime_ms = 1789879263848
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/8e58e314-04c6-42c4-844d-80640030cd9d/4661134a-d50a-4df1-8bf2-0a5062a4f735"
+storage_version_token = "1789879282846702"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "pJRbN9Kx1alFFp6oyT0iE"
+uri = "file://Curso_Django_Catalogo_Web_Aulas_1_a_7/Aula_4_Consultas_Avancadas_Django_ORM.docx"
+type = "word_document"
+title = "Aula 4 — Consultas avançadas com Django ORM"
+description = "Apostila prática do curso Django, com explicação passo a passo, exemplos, exercícios, desafios, checklist e ilustrações de fluxo."
+logical_id = "f9f7e76a-db2f-434b-ae18-ad5d377be6f4"
+content_hash = "sha256:a918d2d70514f1f34550a0c37fd7c5452fb997b580153cebd25b269dd18f32d3"
+size = 43084
+mtime_ms = 1789879263880
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/f9f7e76a-db2f-434b-ae18-ad5d377be6f4/5854d907-30ec-4eab-b78d-363ef27db8b9"
+storage_version_token = "1789879283498194"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "7v6YMGmDUrgIaaqxgDtQa"
+uri = "file://Curso_Django_Catalogo_Web_Aulas_1_a_7/Aula_5_Templates_Bootstrap_Identidade_Visual.docx"
+type = "word_document"
+title = "Aula 5 — Templates, Bootstrap e identidade visual"
+description = "Apostila prática do curso Django, com explicação passo a passo, exemplos, exercícios, desafios, checklist e ilustrações de fluxo."
+logical_id = "9bc7823d-16f5-4432-92ac-2dfbe77d28de"
+content_hash = "sha256:70b114c123d3668213d140597612058694f409e2089de24803ab239cca8caea7"
+size = 43365
+mtime_ms = 1789879263928
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/9bc7823d-16f5-4432-92ac-2dfbe77d28de/13757b5e-a2b7-4ee6-9818-196ad8b70bef"
+storage_version_token = "1789879284197820"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "pGk9zyLzP92jswqUR_lNL"
+uri = "file://Curso_Django_Catalogo_Web_Aulas_1_a_7/Aula_6_Formularios_Validacao_CRUD.docx"
+type = "word_document"
+title = "Aula 6 — Formulários, validação e CRUD"
+description = "Apostila prática do curso Django, com explicação passo a passo, exemplos, exercícios, desafios, checklist e ilustrações de fluxo."
+logical_id = "036044de-9c3d-4273-a3dc-d7d1e13831a8"
+content_hash = "sha256:334ca8c1efcdc4f305ed27dbe1339f89d9dc6cc4abd409f738e6ad04cfb29422"
+size = 42938
+mtime_ms = 1789879263980
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/036044de-9c3d-4273-a3dc-d7d1e13831a8/d7b67036-a93e-43cb-bd00-1d3a546cef74"
+storage_version_token = "1789879284876511"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "UV3xVpTdpDIj2RXo8wkML"
+uri = "file://Curso_Django_Catalogo_Web_Aulas_1_a_7/Aula_7_Autenticacao_Permissoes.docx"
+type = "word_document"
+title = "Aula 7 — Autenticação e permissões"
+description = "Apostila prática do curso Django, com explicação passo a passo, exemplos, exercícios, desafios, checklist e ilustrações de fluxo."
+logical_id = "e31f5020-a616-4e00-bcfd-619f6dcec7c5"
+content_hash = "sha256:a50b82ec3f32acb6ed095db1b99d76ee2b71e8d06d8df08bc87ec1730f8606f7"
+size = 43222
+mtime_ms = 1789879264020
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/e31f5020-a616-4e00-bcfd-619f6dcec7c5/01c159cc-6df4-4c33-8742-1cb7522b183d"
+storage_version_token = "1789879285582510"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
