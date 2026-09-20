@@ -154,3 +154,241 @@ mtime_ms = 1789879907900
 storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/b5d5a97a-da0f-456e-9de8-59ab44a23e9f/c9f37ce2-9aaa-4442-943d-31233980da04"
 storage_version_token = "1789879962828041"
 content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "CNv2caiQY_iadBPrMKGMk"
+uri = "file://Curso_Fullstack_Python_Django_React/00_GUIA/PROJETO_EM_CONSTRUCAO.md"
+type = "text"
+title = "Projeto em construção — Catálogo até GestorWeb"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "52de060b-770f-4c1b-8ed2-a394004e2e2a"
+content_hash = "sha256:16e05c4d0359d7a88360a9edff522118ae7dcac6f63e147cdfd5479141ed2c2e"
+size = 3061
+mtime_ms = 1789880499208
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/52de060b-770f-4c1b-8ed2-a394004e2e2a/6686f618-d2b3-4c2f-a1d0-05e516b694f7"
+storage_version_token = "1789880622954219"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "O19KZYEwIwwfmBhon7hso"
+uri = "file://Curso_Fullstack_Python_Django_React/05_DADOS_E_APIS/Aula_13_Seguranca_Producao.docx"
+type = "word_document"
+title = "Aula 13 — Segurança e produção"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "dbe046d6-85c0-46fc-8cd1-09a50de35996"
+content_hash = "sha256:5f2328ef02242a3b5d3f6e3576acd123a10c3b91e965e0e34fefb280f62aeb7a"
+size = 40488
+mtime_ms = 1789880591572
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/dbe046d6-85c0-46fc-8cd1-09a50de35996/82174b89-44cc-4676-b623-cf16fed0a575"
+storage_version_token = "1789880623813298"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "S47bw9q__JxwV8gmKiVUc"
+uri = "file://Curso_Fullstack_Python_Django_React/05_DADOS_E_APIS/Aula_14_Django_REST_Framework.docx"
+type = "word_document"
+title = "Aula 14 — Primeira API com Django REST Framework"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "a5c36148-c442-4efe-bc55-00eec5152696"
+content_hash = "sha256:e1ad1d2096ea96b850a08be0dfb7081939ac86cb68e8fbf1eb0576c6e2d5448f"
+size = 40475
+mtime_ms = 1789880591684
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/a5c36148-c442-4efe-bc55-00eec5152696/6495e73b-c4a5-4dd9-b9cc-506671ada69c"
+storage_version_token = "1789880624386443"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "J4QXzNcMMNxJhiC--ZVLN"
+uri = "file://Curso_Fullstack_Python_Django_React/05_DADOS_E_APIS/Aula_15_API_Profissional.docx"
+type = "word_document"
+title = "Aula 15 — API profissional"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "03139d17-1295-475f-a340-a116b0008580"
+content_hash = "sha256:38e0eb4accfaab4880b362a1479ece3f920f0b677819600fd259f13cd1de268b"
+size = 40516
+mtime_ms = 1789880591792
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/03139d17-1295-475f-a340-a116b0008580/3b058f67-de7c-44a2-bfa0-daf2312012bd"
+storage_version_token = "1789880624990401"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "j6TFwLvQ09aCSmUxbLnf3"
+uri = "file://Curso_Fullstack_Python_Django_React/06_FRONTEND_REACT/Aula_16_Javascript_Essencial.docx"
+type = "word_document"
+title = "Aula 16 — JavaScript essencial"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "b80b0c2a-d33b-46f1-84b8-9d7ed56974ef"
+content_hash = "sha256:74d7aaf71d17511444b2f7e3280f5184217a6148ca05dfb6545dd71fc3232c9f"
+size = 40401
+mtime_ms = 1789880591896
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/b80b0c2a-d33b-46f1-84b8-9d7ed56974ef/4a4768ff-e524-4eab-9e64-6fea598d5a70"
+storage_version_token = "1789880625622090"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "hxehZeLtEjSjCVOJ62sUW"
+uri = "file://Curso_Fullstack_Python_Django_React/06_FRONTEND_REACT/Aula_17_React_Componentes_Estado.docx"
+type = "word_document"
+title = "Aula 17 — React, componentes e estado"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "c432321d-e211-4631-b022-d927f2f4e3cb"
+content_hash = "sha256:75d849471e0d8ca955f78751b617adc51017fff8b80d4299ceb15bc09d0049dc"
+size = 40291
+mtime_ms = 1789880591996
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/c432321d-e211-4631-b022-d927f2f4e3cb/fcd5d368-1a98-463f-b88b-d70e55d68bde"
+storage_version_token = "1789880626264412"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "zSbsxv6YXG7kCfDufGdID"
+uri = "file://Curso_Fullstack_Python_Django_React/06_FRONTEND_REACT/Aula_18_React_Formularios_Rotas.docx"
+type = "word_document"
+title = "Aula 18 — React, formulários e rotas"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "cb0b1be1-49ce-4739-9559-1fb704492ec6"
+content_hash = "sha256:11ba68caff9c6e5369d75c73980a77af05e3c22227ac176edfcf3f22f19d6e1b"
+size = 40293
+mtime_ms = 1789880592100
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/cb0b1be1-49ce-4739-9559-1fb704492ec6/5aa8d3ba-eaf9-40a6-a435-2e88770f41a0"
+storage_version_token = "1789880626916254"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "V2tVW4LkGS57Ju7FgHJeu"
+uri = "file://Curso_Fullstack_Python_Django_React/06_FRONTEND_REACT/Aula_19_React_API_Django.docx"
+type = "word_document"
+title = "Aula 19 — React ligado à API Django"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "9f2e3455-e968-42f3-924c-1915721f7fca"
+content_hash = "sha256:f6c095c88a644d8ae36a79428112c1b2dc5ed83fe38702df6b166ebc8e72eba0"
+size = 40487
+mtime_ms = 1789880592172
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/9f2e3455-e968-42f3-924c-1915721f7fca/2cb1248b-e3e0-45c5-af27-a89b0340b4fd"
+storage_version_token = "1789880627513068"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "q76nUbbnN3J6du1O3DPVl"
+uri = "file://Curso_Fullstack_Python_Django_React/06_FRONTEND_REACT/Aula_20_Dashboard_React.docx"
+type = "word_document"
+title = "Aula 20 — Dashboard React"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "c7ab484c-28a4-48bf-8773-05c1b287de26"
+content_hash = "sha256:2ba12dc7b53a7fccd51f454c483f26782f77c8715d4311fa5201ba87a085f246"
+size = 40350
+mtime_ms = 1789880592248
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/c7ab484c-28a4-48bf-8773-05c1b287de26/0c08c69f-c045-4566-b08b-5e3ed6f4d16d"
+storage_version_token = "1789880628088373"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "OjyoyfV89Q3hlnZUC-Oyk"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_21_Planeamento_GestorWeb.docx"
+type = "word_document"
+title = "Aula 21 — Planeamento do projeto final"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "8df3d2a7-f672-4cd8-9080-e955b96b7381"
+content_hash = "sha256:763b138f3ee4f8ba069133023e37b59ffd980b579b221a3cccf489eff959d68a"
+size = 40301
+mtime_ms = 1789880592324
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/8df3d2a7-f672-4cd8-9080-e955b96b7381/befca267-c973-4564-966f-60a99f38c1fd"
+storage_version_token = "1789880628822019"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "64Fb5bISmdW2Y8Hx9E1Rn"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_22_Backend_Projeto_Final.docx"
+type = "word_document"
+title = "Aula 22 — Backend do GestorWeb"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "cc8b46d5-8b5e-4f52-b4a4-82f794456393"
+content_hash = "sha256:2c09f9e638b6fad282f8985060f3a21d6bc86353cc5566f41138f5a091aca861"
+size = 40323
+mtime_ms = 1789880592396
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/cc8b46d5-8b5e-4f52-b4a4-82f794456393/b7b5b6dd-efe0-42e9-bdfe-da67fdc514a4"
+storage_version_token = "1789880629445009"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "GKD209y78FFvgSmbSZP2C"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_23_Auth_Projeto_Final.docx"
+type = "word_document"
+title = "Aula 23 — Autenticação do projeto final"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "05dfd813-4627-4e9d-bc8a-916a3f705112"
+content_hash = "sha256:2bf5df55fc97871dfd175384fdc6936e7474d84f1b9b6065ce2bf75ddfd611e3"
+size = 40345
+mtime_ms = 1789880592472
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/05dfd813-4627-4e9d-bc8a-916a3f705112/28ca65b3-835e-4c6f-b1ea-ecaf17e62fb3"
+storage_version_token = "1789880630242645"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "G5PCp9XVM7DYNZP7CkMte"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_24_API_Projeto_Final.docx"
+type = "word_document"
+title = "Aula 24 — API final do GestorWeb"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "10796411-5442-4eca-9788-ef1f7637a264"
+content_hash = "sha256:b85d7fb5dead53e8a49a571446a8f6e60ae385269234047c9201483868e7b334"
+size = 40233
+mtime_ms = 1789880592560
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/10796411-5442-4eca-9788-ef1f7637a264/b27afa8c-ddae-4f3a-ba12-294a404b61fc"
+storage_version_token = "1789880630838656"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "yMIfhsOMFKHiYOMCBw-Zk"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_25_Frontend_Projeto_Final.docx"
+type = "word_document"
+title = "Aula 25 — Frontend final do GestorWeb"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "39c30251-a322-4e71-8c84-09573b5eca81"
+content_hash = "sha256:65dc799eff696696f1f6ad17cdb57dc6be4919f80b453232f4bcd998e9a8e625"
+size = 40320
+mtime_ms = 1789880592656
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/39c30251-a322-4e71-8c84-09573b5eca81/1df9d44c-1e17-4d30-b91c-b0042c81f90b"
+storage_version_token = "1789880631459375"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "HiAUceDATkIKyU4byFOJZ"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_26_Relatorios_Projeto_Final.docx"
+type = "word_document"
+title = "Aula 26 — Relatórios do GestorWeb"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "81baf313-2062-4f9d-bcdb-7dae6ada554d"
+content_hash = "sha256:4261adcdf56046c83689e7c1292f3ef93b237781a25bb121f2b936c5eb438233"
+size = 40349
+mtime_ms = 1789880592736
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/81baf313-2062-4f9d-bcdb-7dae6ada554d/d470fa04-e6d6-4874-82e4-35bf6604ef6c"
+storage_version_token = "1789880632055511"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "Zd5Pqbb4fVx7wA41gNTHe"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_27_Testes_Seguranca_Projeto_Final.docx"
+type = "word_document"
+title = "Aula 27 — Qualidade e segurança"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "c3cb7ee1-d9ec-414d-b830-eba340685fe3"
+content_hash = "sha256:392dd37dc80c67f49e0d07300c754dfc355a1d82c070618d8609ab5a456859b1"
+size = 40181
+mtime_ms = 1789880592820
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/c3cb7ee1-d9ec-414d-b830-eba340685fe3/d59258d5-11af-40d2-ac64-4dba0a9c6f3c"
+storage_version_token = "1789880632658719"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "qWr-77KQqX3MJBXSygMLw"
+uri = "file://Curso_Fullstack_Python_Django_React/07_PROJETO_FINAL_E_DEPLOY/Aula_28_Deploy_Portfolio_GestorWeb.docx"
+type = "word_document"
+title = "Aula 28 — Deploy, documentação e portfólio"
+description = "Documento do percurso full-stack com motivação do produto, ilustração do fluxo, exemplos, bibliotecas, passos, exercícios, desafio e checklist."
+logical_id = "c6b578ef-6a95-444b-9554-d5557294ca3d"
+content_hash = "sha256:1bac4c290ab6e83f75dd0d8ceda3ef6b915fd2371ef02f86b41298542037c0ef"
+size = 40336
+mtime_ms = 1789880592896
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/c6b578ef-6a95-444b-9554-d5557294ca3d/3ebade4c-6d5b-4b63-9489-134d91c2fec0"
+storage_version_token = "1789880633255718"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
