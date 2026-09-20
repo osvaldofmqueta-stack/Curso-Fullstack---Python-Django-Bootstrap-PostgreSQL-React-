@@ -70,3 +70,87 @@ mtime_ms = 1789879264020
 storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/e31f5020-a616-4e00-bcfd-619f6dcec7c5/01c159cc-6df4-4c33-8742-1cb7522b183d"
 storage_version_token = "1789879285582510"
 content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "-6eAetH934fKheXIEGIs7"
+uri = "file://Curso_Fullstack_Python_Django_React/00_GUIA/GUIA_DO_CURSO_FULLSTACK.md"
+type = "text"
+title = "Guia do curso Fullstack"
+description = "Material estruturado do curso full-stack, com passo a passo, exemplos, bibliotecas recomendadas, ilustrações de fluxo, exercícios e checklist."
+logical_id = "f5ea0558-f0e2-425d-af05-0d0be84c7be8"
+content_hash = "sha256:486cad2df929a128cf755620f11ec68311747de07ea0cab07a59409df8bc2db7"
+size = 9081
+mtime_ms = 1789879927408
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/f5ea0558-f0e2-425d-af05-0d0be84c7be8/80de5d01-79fe-44a9-999c-d98cb9e2ac7e"
+storage_version_token = "1789879959275628"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "ahtxU5H99KJP-GNNBNqIv"
+uri = "file://Curso_Fullstack_Python_Django_React/03_APLICACAO_E_QUALIDADE/Aula_8_Testes_Automatizados.docx"
+type = "word_document"
+title = "Aula 8 — Testes automatizados"
+description = "Material estruturado do curso full-stack, com passo a passo, exemplos, bibliotecas recomendadas, ilustrações de fluxo, exercícios e checklist."
+logical_id = "a99dab86-95d0-4bff-b9f3-7dee7b68222c"
+content_hash = "sha256:d65b1a697b00e70b1cc0f2061d1493675bb74399e7a96169871111ddabf80dba"
+size = 41383
+mtime_ms = 1789879907504
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/a99dab86-95d0-4bff-b9f3-7dee7b68222c/8ac038b6-725e-42ad-a59c-15f8d0d8bf32"
+storage_version_token = "1789879959989104"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "ZHAO6NIq41POphM1-Nxx7"
+uri = "file://Curso_Fullstack_Python_Django_React/04_RELATORIOS_E_EXPORTACAO/Aula_9_Relatorios_Dashboard_ORM.docx"
+type = "word_document"
+title = "Aula 9 — Relatórios e dashboard"
+description = "Material estruturado do curso full-stack, com passo a passo, exemplos, bibliotecas recomendadas, ilustrações de fluxo, exercícios e checklist."
+logical_id = "2e65b549-b68f-42ca-9024-e46d8395aba5"
+content_hash = "sha256:db301aded99ef847989f1efe2e7ace6d6027267d43dc1f9024038cc5ea886d7d"
+size = 41168
+mtime_ms = 1789879907596
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/2e65b549-b68f-42ca-9024-e46d8395aba5/c7535408-0af0-41db-a60a-ad4af5a311e1"
+storage_version_token = "1789879960669048"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "68wrtr8mX6NPY4aYImDUs"
+uri = "file://Curso_Fullstack_Python_Django_React/04_RELATORIOS_E_EXPORTACAO/Aula_10_Exportacao_Excel_openpyxl.docx"
+type = "word_document"
+title = "Aula 10 — Exportação para Excel"
+description = "Material estruturado do curso full-stack, com passo a passo, exemplos, bibliotecas recomendadas, ilustrações de fluxo, exercícios e checklist."
+logical_id = "f500eed2-2a6c-48c1-9eb6-027af098dfb4"
+content_hash = "sha256:ab4a1820edfcc70694d0b9b5e97cf03a624770b9a1638df1cc789666a0fbe700"
+size = 41301
+mtime_ms = 1789879907696
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/f500eed2-2a6c-48c1-9eb6-027af098dfb4/0b67b3df-91c5-4d41-9123-1c9cdab5c037"
+storage_version_token = "1789879961398715"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "0AdEy-x_gMGVwuZDC0ksn"
+uri = "file://Curso_Fullstack_Python_Django_React/04_RELATORIOS_E_EXPORTACAO/Aula_11_Geracao_PDF_WeasyPrint.docx"
+type = "word_document"
+title = "Aula 11 — Geração de PDF"
+description = "Material estruturado do curso full-stack, com passo a passo, exemplos, bibliotecas recomendadas, ilustrações de fluxo, exercícios e checklist."
+logical_id = "17cea140-8769-40d7-af46-90e012b0a03a"
+content_hash = "sha256:e8e933b1dad6c117daa9ce8d01da8c20d4fefe93a435da967825023bf5f5769b"
+size = 41462
+mtime_ms = 1789879907788
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/17cea140-8769-40d7-af46-90e012b0a03a/cd4afeb7-7103-494f-9d8d-40e556227055"
+storage_version_token = "1789879962185236"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "oOqsd04V9ppJt8A5NC-VJ"
+uri = "file://Curso_Fullstack_Python_Django_React/05_DADOS_E_APIS/Aula_12_PostgreSQL_Configuracao.docx"
+type = "word_document"
+title = "Aula 12 — PostgreSQL e configuração"
+description = "Material estruturado do curso full-stack, com passo a passo, exemplos, bibliotecas recomendadas, ilustrações de fluxo, exercícios e checklist."
+logical_id = "b5d5a97a-da0f-456e-9de8-59ab44a23e9f"
+content_hash = "sha256:4fdd2fb54e898cea96ff82216a703a8715c4d89c35ab8ea4357a90de0b330269"
+size = 41049
+mtime_ms = 1789879907900
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/b5d5a97a-da0f-456e-9de8-59ab44a23e9f/c9f37ce2-9aaa-4442-943d-31233980da04"
+storage_version_token = "1789879962828041"
+content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
