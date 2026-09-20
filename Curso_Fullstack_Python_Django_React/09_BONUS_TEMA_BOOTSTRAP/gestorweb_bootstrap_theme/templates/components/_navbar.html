@@ -1,0 +1,18 @@
+<nav class="navbar navbar-expand-lg navbar-dark gw-navbar">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="{% url 'produtos:lista' %}">GestorWeb</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-label="Abrir menu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div id="mainNav" class="collapse navbar-collapse">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link" href="{% url 'produtos:lista' %}">Produtos</a></li>
+        {% if user.is_authenticated %}<li class="nav-item"><a class="nav-link" href="{% url 'produtos:dashboard' %}">Dashboard</a></li>{% endif %}
+      </ul>
+      {% if user.is_authenticated %}
+        <span class="navbar-text text-white-50 me-3">Olá, {{ user.username }}</span>
+        <form method="post" action="{% url 'logout' %}"><input type="hidden" name="csrfmiddlewaretoken" value="{{ csrf_token }}"><button class="btn btn-sm btn-outline-light">Sair</button></form>
+      {% else %}<a class="btn btn-sm btn-light" href="{% url 'login' %}">Entrar</a>{% endif %}
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,22 @@
+:root {
+  --gw-navy: #0F172A;
+  --gw-blue: #2563EB;
+  --gw-cyan: #0891B2;
+  --gw-green: #16A34A;
+  --gw-red: #DC2626;
+  --gw-surface: #F8FAFC;
+  --gw-border: #E2E8F0;
+}
+body { background: var(--gw-surface); color: #334155; }
+.gw-navbar { background: var(--gw-navy); }
+.gw-navbar .nav-link:hover { color: #67E8F9; }
+.gw-card { border: 1px solid var(--gw-border); border-radius: 1rem; transition: transform .18s ease, box-shadow .18s ease; }
+.gw-card:hover { transform: translateY(-2px); box-shadow: 0 1rem 2rem rgba(15, 23, 42, .10); }
+.gw-kpi { border-left: .3rem solid var(--gw-blue); }
+.gw-kpi.success { border-left-color: var(--gw-green); }
+.gw-kpi.warning { border-left-color: #D97706; }
+.gw-kpi.danger { border-left-color: var(--gw-red); }
+.gw-price { color: var(--gw-blue); font-weight: 700; font-size: 1.2rem; }
+.gw-alert { border: 0; border-radius: .75rem; }
+.btn-primary { background: var(--gw-blue); border-color: var(--gw-blue); }
+.btn-primary:hover { background: #1D4ED8; border-color: #1D4ED8; }
