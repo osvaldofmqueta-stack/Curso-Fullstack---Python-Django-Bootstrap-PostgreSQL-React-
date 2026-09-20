@@ -392,3 +392,115 @@ mtime_ms = 1789880592896
 storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/c6b578ef-6a95-444b-9554-d5557294ca3d/3ebade4c-6d5b-4b63-9489-134d91c2fec0"
 storage_version_token = "1789880633255718"
 content_type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+
+[[outputs]]
+id = "0ZOfhRZHNmj_Eb6DRmzw_"
+uri = "file://Curso_Fullstack_Python_Django_React/09_BONUS_TEMA_BOOTSTRAP/gestorweb_bootstrap_theme.zip"
+type = "unspecified"
+title = "Bónus — tema Bootstrap GestorWeb Aurora"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "61d112ed-cbba-4749-96dd-ca4cbd5a3e27"
+content_hash = "sha256:4227ee6c2e97a58b41f45e2be82b746a79d1981be61b931f857398edb1fd608a"
+size = 6069
+mtime_ms = 1789880882619
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/61d112ed-cbba-4749-96dd-ca4cbd5a3e27/2575d8c2-3a6b-46bf-8211-1732de7bee0b"
+storage_version_token = "1789880898118375"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "bt2MNPt8SxFdUBBLWFk0H"
+uri = "file://Curso_Fullstack_Python_Django_React/09_BONUS_TEMA_BOOTSTRAP/GUIA_BONUS_INTEGRACAO_TEMA.md"
+type = "text"
+title = "Guia de integração do tema Bootstrap"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "1885faea-3f55-4ade-a0f0-dcc562238136"
+content_hash = "sha256:43a0914af1df48537f0e9607b1dccdcffb6a4457f0f5d3a2f1b1849a04d9721a"
+size = 1633
+mtime_ms = 1789880790824
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/1885faea-3f55-4ade-a0f0-dcc562238136/38011736-8df2-4dd9-8cd4-767d37eb4b5d"
+storage_version_token = "1789880898826062"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "Dp2i4wSsCh94J5EL0Yg5F"
+uri = "file://Curso_Fullstack_Python_Django_React/00_GUIA/GUIA_VISUAL_APLICACAO.md"
+type = "text"
+title = "Caderno visual da aplicação"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "f9243d19-1e40-4074-a0d7-1d04fd4e5d8e"
+content_hash = "sha256:ddb659410128123adfa77be43d5f158d93dbba9c565922e9b1aa32886e811b1f"
+size = 1490
+mtime_ms = 1789880862339
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/f9243d19-1e40-4074-a0d7-1d04fd4e5d8e/196c22e6-e7e1-430a-9a1b-d5b59dedc8f0"
+storage_version_token = "1789880899450091"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "uk4FAvOseTDw1xuDtXRhJ"
+uri = "file://Curso_Fullstack_Python_Django_React/08_APLICACOES_COMPLETAS/INDICE_PROJETOS.md"
+type = "text"
+title = "Índice dos projetos completos"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "b0b2ea22-ef35-4752-93e4-2f427cdf7b9a"
+content_hash = "sha256:06a307311def758feb705ecfa3c29d7819a99f2c2c1343c101618e362429206b"
+size = 1384
+mtime_ms = 1789880874144
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/b0b2ea22-ef35-4752-93e4-2f427cdf7b9a/c7ac1170-34db-4aa4-b24d-46167ac141d1"
+storage_version_token = "1789880900087528"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "1XJNPCjuJM29A_gnJ6_GP"
+uri = "file://Curso_Fullstack_Python_Django_React/08_APLICACOES_COMPLETAS/01_TASKFLOW/GUIA_TASKFLOW.md"
+type = "text"
+title = "Projeto completo — TaskFlow"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "0aa3fae8-e5d3-45f2-b20e-7304182ab96e"
+content_hash = "sha256:a5a10ea97b757b1223f04125e5e08643fa6d125ed2d3dc06ff6363182a1727a5"
+size = 2260
+mtime_ms = 1789880862345
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/0aa3fae8-e5d3-45f2-b20e-7304182ab96e/79117805-f8b6-4fea-95ea-c3bde19c337a"
+storage_version_token = "1789880900719612"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "5zsaG4OxR_yLMt5ilZ8xE"
+uri = "file://Curso_Fullstack_Python_Django_React/08_APLICACOES_COMPLETAS/02_CRM_CONTACTOS/GUIA_CRM_CONTACTOS.md"
+type = "text"
+title = "Projeto completo — ContactFlow CRM"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "d6edb069-5e87-4c45-b687-542cf1fc945a"
+content_hash = "sha256:45ca093d86e4aad30f5d9cc257161b87f82b6494a814b85889238904aeeda952"
+size = 2221
+mtime_ms = 1789880862348
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/d6edb069-5e87-4c45-b687-542cf1fc945a/66900e6e-2bb2-4bf9-b78e-b1d851c4f679"
+storage_version_token = "1789880901306449"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "AsOUK0TGXOMgRi4rfOASP"
+uri = "file://Curso_Fullstack_Python_Django_React/08_APLICACOES_COMPLETAS/03_RESERVAS/GUIA_RESERVAS.md"
+type = "text"
+title = "Projeto completo — ReservaFácil"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "a1b0fb57-fa11-47e6-8404-73329302e8e9"
+content_hash = "sha256:a612d9673dc611cc64ebec962ef180d7d3004d62bf584f75b74942bd449ea8a0"
+size = 2559
+mtime_ms = 1789880862348
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/a1b0fb57-fa11-47e6-8404-73329302e8e9/739e7443-81a1-422f-8217-31ff27b2f8f6"
+storage_version_token = "1789880901891414"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "z5_Sq69HF1UAsdD5L2R0-"
+uri = "file://Curso_Fullstack_Python_Django_React/00_GUIA/REVISAO_VISUAL_E_COMPLETUDE.md"
+type = "text"
+title = "Revisão visual e de completude"
+description = "Material adicional do curso com passo a passo, ilustrações, exemplos e critérios de validação."
+logical_id = "0adf18c7-08b1-4b4c-a18f-da76d14a9475"
+content_hash = "sha256:c85255d6b7f3a1e7d808538cb1e6b8f217310010031756af542982afefa2677d"
+size = 1554
+mtime_ms = 1789880862342
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/0adf18c7-08b1-4b4c-a18f-da76d14a9475/6e3b7372-b641-497d-b50b-58eec172c616"
+storage_version_token = "1789880902502964"
+content_type = "text/markdown"
