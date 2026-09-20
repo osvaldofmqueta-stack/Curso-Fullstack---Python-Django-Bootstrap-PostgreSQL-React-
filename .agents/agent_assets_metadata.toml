@@ -518,3 +518,17 @@ mtime_ms = 1789880966057
 storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/da62d3d6-ca3b-4b6b-940c-1864ef8ed559/d0ff1cdb-1e23-4850-99e6-8b70055daf25"
 storage_version_token = "1789881027649193"
 content_type = "text/markdown"
+
+[[outputs]]
+id = "cWTmsoValYzi7CehOtPJ6"
+uri = "file://Curso_Fullstack_Python_Django_React_COMPLETO.zip"
+type = "unspecified"
+title = "Curso Fullstack completo — todas as aulas e projetos ZIP"
+description = "Pacote completo para download com as 28 aulas, os 28 projetos ZIP por aula, o bónus de tema Bootstrap, wireframes e três projetos adicionais: TaskFlow, ContactFlow CRM e ReservaFácil."
+logical_id = "39158f38-1aba-41b8-abb0-6f8b6ad98b3e"
+content_hash = "sha256:6bff368968d1d5a013f141e2f69dd0f3093297fe840fa47143ad8f75cb90e4e8"
+size = 1483587
+mtime_ms = 1789881074040
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:20bb6206-9bdf-4694-8fdc-401cb5c28e94/39158f38-1aba-41b8-abb0-6f8b6ad98b3e/4be1cfa5-c046-4ed3-a51f-d930cb245269"
+storage_version_token = "1789881078766985"
+content_type = "application/octet-stream"
