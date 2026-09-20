@@ -368,3 +368,31 @@ Python
 ```
 
 Esta ordem reduz a complexidade e permite que cada tecnologia resolva um problema que já compreendes.
+
+---
+
+## Projeto ZIP de cada aula
+
+Cada aula tem um pacote de prática em:
+
+```text
+10_PROJETOS_ZIPADOS_POR_AULA/
+```
+
+Dentro de cada ZIP existem:
+
+```text
+STARTER/
+EXPECTED/
+ESTADO_ESPERADO.md
+CHECKLIST.md
+```
+
+Usa `STARTER` para começar a construir. Abre `EXPECTED` apenas depois da tua tentativa, para comparar a estrutura e corrigir o que falta. Os ZIPs são referências didáticas progressivas; a implementação final deve ser executada e validada por ti no teu projeto.
+
+## Material extra
+
+- `00_GUIA/GUIA_VISUAL_APLICACAO.md` — wireframes da evolução do GestorWeb.
+- `00_GUIA/PROJETO_EM_CONSTRUCAO.md` — motivação e marcos visuais do projeto.
+- `08_APLICACOES_COMPLETAS/` — TaskFlow, ContactFlow CRM e ReservaFácil.
+- `09_BONUS_TEMA_BOOTSTRAP/` — tema Bootstrap e pacote ZIP reutilizável.
