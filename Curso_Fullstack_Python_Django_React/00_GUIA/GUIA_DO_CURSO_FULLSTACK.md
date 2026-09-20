@@ -396,3 +396,7 @@ Usa `STARTER` para começar a construir. Abre `EXPECTED` apenas depois da tua te
 - `00_GUIA/PROJETO_EM_CONSTRUCAO.md` — motivação e marcos visuais do projeto.
 - `08_APLICACOES_COMPLETAS/` — TaskFlow, ContactFlow CRM e ReservaFácil.
 - `09_BONUS_TEMA_BOOTSTRAP/` — tema Bootstrap e pacote ZIP reutilizável.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

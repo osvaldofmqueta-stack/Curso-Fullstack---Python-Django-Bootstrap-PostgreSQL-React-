@@ -58,3 +58,7 @@ Pasta: `03_RESERVAS/`
 12. Documenta e publica.
 
 Não copies o código do projeto anterior sem perceber. Reutiliza a estrutura, mas escreve os nomes, regras e decisões do novo domínio.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

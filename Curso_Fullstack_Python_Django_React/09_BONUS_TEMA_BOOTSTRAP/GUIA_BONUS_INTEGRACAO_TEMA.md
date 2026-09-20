@@ -55,3 +55,7 @@ gestorweb_bootstrap_theme/
 - A página continua utilizável no telemóvel.
 
 O preview é um wireframe ilustrativo. A aparência final depende dos dados e templates do teu projeto.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

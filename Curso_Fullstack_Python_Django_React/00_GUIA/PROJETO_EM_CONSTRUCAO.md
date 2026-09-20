@@ -133,3 +133,7 @@ No final, o GestorWeb deverá demonstrar:
 - Deploy.
 
 Esse projeto será o teu primeiro trabalho completo para portfólio. Não precisa de ter todas as funcionalidades de uma empresa real; precisa de mostrar que sabes pensar, construir, testar e publicar uma solução.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

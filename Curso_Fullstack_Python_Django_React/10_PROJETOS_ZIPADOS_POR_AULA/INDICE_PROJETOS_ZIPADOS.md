@@ -40,3 +40,7 @@ Cada aula tem um ZIP com `STARTER/`, `EXPECTED/`, `ESTADO_ESPERADO.md`, `CHECKLI
 - [Aula 26 — Relatórios do GestorWeb](Aula_26_Relatórios_do_GestorWeb.zip)
 - [Aula 27 — Qualidade e segurança](Aula_27_Qualidade_e_segurança.zip)
 - [Aula 28 — Deploy e portfólio](Aula_28_Deploy_e_portfólio.zip)
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

@@ -21,3 +21,7 @@ Tema visual didático para o curso Django. Usa Bootstrap 5.3 por CDN e uma folha
 - Fundo: `#F8FAFC`
 
 O pacote não contém credenciais, dados privados nem dependências além do Bootstrap carregado por CDN.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

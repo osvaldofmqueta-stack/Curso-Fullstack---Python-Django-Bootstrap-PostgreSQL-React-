@@ -90,3 +90,7 @@ Construir uma visão Kanban com as etapas “Novo”, “Contacto”, “Propost
 ## Critério de terminado
 
 Um gestor deve conseguir acompanhar contactos, oportunidades e próximas ações sem depender de folhas Excel separadas.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

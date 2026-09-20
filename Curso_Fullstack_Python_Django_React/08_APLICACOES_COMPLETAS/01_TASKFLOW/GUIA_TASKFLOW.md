@@ -95,3 +95,7 @@ Adicionar comentários numa tarefa e um histórico de alterações.
 ## Critério de terminado
 
 O TaskFlow está pronto quando um utilizador consegue entrar, gerir as suas tarefas, consultar o dashboard e usar a aplicação sem acesso a dados de outras contas.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

@@ -97,3 +97,7 @@ Criar uma vista semanal em que os horários ocupados aparecem com cores diferent
 ## Critério de terminado
 
 O sistema está pronto quando uma pessoa consegue escolher um serviço, ver disponibilidade, reservar, receber confirmação e consultar o histórico sem criar conflitos.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

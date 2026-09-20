@@ -36,3 +36,7 @@ Uma aula só fica verdadeiramente concluída quando:
 4. O desafio foi tentado.
 5. Os testes ou verificações passaram.
 6. Um screenshot real foi guardado no marco correspondente.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**

@@ -39,3 +39,7 @@ O GestorWeb junta clientes, produtos, vendas, relatórios, permissões e fronten
 ## O que ainda não é possível mostrar como screenshot
 
 A aplicação executável ainda precisa de ser construída. Por isso, neste momento existem wireframes desenhados e exemplos de código, não screenshots reais de todas as telas. A próxima etapa prática é executar as aulas e capturar a versão real em cada marco.
+
+---
+
+**Elaborado por Osvaldo Queta — Engenheiro Informático desde 2015 — Programador Sénior com mais de 8 anos de experiência**
